@@ -2,8 +2,8 @@
 
 This repository contains the **ASPC** algorithm and several baseline offline RL algorithms (WPC, IQL, TD3+BC, ReBRAC, etc.).
 
-Paper homepage: https://ojs.aaai.org/index.php/AAAI/article/view/38924  
-Venue: **AAAI 2026 (Oral)**
+Paper homepage: https://arxiv.org/abs/2508.19900  
+Venue: **ICLR 2026 (Accepted)**
 
 ---
 
@@ -50,6 +50,24 @@ This repository builds upon and references code from the following GitHub reposi
 1. [CORL](https://github.com/tinkoff-ai/CORL)  
 2. [wPC](https://github.com/qsa-fox/wPC)  
 3. [TorchOpt](https://github.com/metaopt/torchopt)
+
+---
+
+## Citation
+
+If you find this work useful, please cite:
+
+```bibtex
+@misc{jing2025adaptivescalingpolicyconstraints,
+  title={Adaptive Scaling of Policy Constraints for Offline Reinforcement Learning},
+  author={Tan Jing and Xiaorui Li and Chao Yao and Xiaojuan Ban and Yuetong Fang and Renjing Xu and Zhaolin Yuan},
+  year={2025},
+  eprint={2508.19900},
+  archivePrefix={arXiv},
+  primaryClass={cs.LG},
+  url={https://arxiv.org/abs/2508.19900}
+}
+```
 
 ---
 
