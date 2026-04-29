@@ -1,0 +1,11 @@
+This repository includes and adapts third-party open-source software.
+
+Primary upstream projects:
+- CORL: https://github.com/tinkoff-ai/CORL (Apache License 2.0)
+- ReBRAC: https://github.com/tinkoff-ai/ReBRAC (Apache License 2.0)
+- TD3_BC: https://github.com/sfujim/TD3_BC (MIT License)
+- IQL-PyTorch: https://github.com/gwthomas/IQL-PyTorch (MIT License)
+- CQL: https://github.com/young-geng/CQL (MIT License)
+
+Files in this repository have been modified from upstream sources to support
+ASPC experiments and additional offline RL baselines.
